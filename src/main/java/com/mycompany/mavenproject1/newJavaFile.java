@@ -25,4 +25,6 @@ public class newJavaFile {
         
         System.out.println("tu juego es:"+palabras.get(a));
     }
+
+   
 }
